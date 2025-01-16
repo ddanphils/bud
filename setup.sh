@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# Starting the setup.sh script
+echo "Starting the setup.sh script..."
+
 # Update the package list
 echo "Updating package list..."
 sudo apt-get update
