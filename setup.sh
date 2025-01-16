@@ -22,4 +22,5 @@ pip install beautifulsoup4 weasyprint pandas termcolor
 echo "Verifying installations..."
 python -c "import weasyprint, pandas, termcolor, bs4; print('Installation successful!')"
 
+# Final success message
 echo "Setup completed successfully!"
